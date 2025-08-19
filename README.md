@@ -19,17 +19,17 @@
 ## 👩🏻‍💻 Tech Stack:
 <div align="center">
   <img src="ProgLang.png" alt="Programming Languages: Python, Java, JavaScript, HTML, CSS" 
-       style="max-width: 400px; width: 100%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
+       style="max-width: 400px; width: 70%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
 </div>
 
 <div align="center">
   <img src="Frameworks.png" alt="Frameworks: NodeJs & React" 
-       style="max-width: 10px; width: 10%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
+       style="max-width: 10px; width: 50%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
 </div>
 
 <div align="center">
   <img src="platforms.png" alt="Platforms: Figma, VSCode, Git, Docker" 
-       style="max-width: 450px; width: 100%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
+       style="max-width: 450px; width: 70%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
 </div>
 
 ---
