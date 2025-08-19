@@ -19,12 +19,12 @@
 ## 👩🏻‍💻 Tech Stack:
 <div align="center">
   <img src="ProgLang.png" alt="Programming Languages: Python, Java, JavaScript, HTML, CSS" 
-       style="max-width: 400px; width: 45%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
+       style="max-width: 400px; width: 55%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
 </div>
 
 <div align="center">
   <img src="Frameworks.png" alt="Frameworks: NodeJs & React" 
-       style="max-width: 10px; width: 15%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
+       style="max-width: 10px; width: 20%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
 </div>
 
 <div align="center">
