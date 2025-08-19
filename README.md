@@ -1,7 +1,8 @@
 # Hi, I'm Ximena Vargas Gamez! 🌟
 
 <div align="center">
-  <img src="/Users/ximenavargas/Desktop/Proyectos/GitHubReadME/GitHubProfile.gif" alt="My Workspace" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
+  <img src="./GitHubProfile.gif" alt="GitHub Profile GIF" width="500"/>
+  
 </div>
 
 ## 🚀 About Me:
