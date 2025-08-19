@@ -1,47 +1,50 @@
-# Hi, I'm Ximena Vargas Gamez! 🌟
+# Hi there, I'm Ximena Vargas Gamez! 🌟✨
 
 <div align="center">
-  <img src="./GitHubProfile.gif" alt="GitHub Profile GIF" width="500"/>
-  
+  <img src="GitHubProfile.gif" alt="Welcome GIF" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
 </div>
 
-## 🚀 About Me:
+## 🌟 About Me:
 
-• 💼 **Soon**: [Your Current Role/Aspiration] - [Brief Description]
-• 📚 **Learning**: [Technologies you're learning - e.g., Python, React, Machine Learning...]
-• 🎨 **Interests**: [Your hobbies and interests - e.g., Photography, Gaming, Music...]
-• 🔭 **Currently Working On**: [Current projects or focus areas]
+• 🌸 **Upcoming**: Bachelors in Software Engineering - at *CETYS UNIVERSIDAD* in **2027** 🎓
+
+• 💡 **Learning**: NodeJs, Backend Developing, more UX/UI!
+
+• 🌷 **Interests**: Listening to music, cooking, playing videogames, embroydery, reading, drawing (both digital & traditional)
+
+• 👀 **Currently Working On**: UX/UI and Frontend Developing. 
 
 ---
 
-## 🛠️ Tech Stack:
+## 👩🏻‍💻 Tech Stack:
 
 ### Languages:
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-FF69B4?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-FFB6C1?style=flat-square&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-FF1493?style=flat-square&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-FFC0CB?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-FF69B4?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FFB6C1?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FFB6C1?style=flat-square&logo=java&logoColor=white)=
+![HTML](https://img.shields.io/badge/-HTML-FFB6C1?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-FFB6C1?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?style=flat-square&logo=javascript&logoColor=white)
 
-### Frameworks & Libraries:
+</div>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+### Frameworks & Libraries:
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-F8BBD9?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-F8BBD9?style=flat-square&logo=node.js&logoColor=white)
+
+</div>
 
 ### Tools & Platforms:
+<div align="center">
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-E91E63?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-E91E63?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-E91E63?style=flat-square&logo=docker&logoColor=white)
 
-### Databases:
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
 ---
 
@@ -61,23 +64,17 @@
 ## 🎯 Featured Projects:
 
 ### 🌟 [Project Name 1](https://github.com/XimenaVargasGamez/project1)
-
 Brief description of your project. What it does, what technologies you used, and why it's cool!
-
 - **Tech Stack**: React, Node.js, MongoDB
 - **Features**: Feature 1, Feature 2, Feature 3
 
 ### 🚀 [Project Name 2](https://github.com/XimenaVargasGamez/project2)
-
 Another awesome project description. Highlight what makes this project special!
-
 - **Tech Stack**: Python, Flask, PostgreSQL
 - **Features**: Feature 1, Feature 2, Feature 3
 
-### 💡 [Project Name 3](https://github.com/yourusername/project3)
-
+### 💡 [Project Name 3](https://github.com/XimenaVargasGamez/project3)
 Your third project that showcases different skills or technologies.
-
 - **Tech Stack**: JavaScript, Express, React
 - **Features**: Feature 1, Feature 2, Feature 3
 
@@ -115,6 +112,6 @@ Your third project that showcases different skills or technologies.
   
 **Thanks for visiting my profile! 😊**
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/XimenaVargasGamez/count.svg)
 
 </div>
