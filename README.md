@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <img src="Platforms.png" alt="Platforms: Figma, VSCode, Git, Docker" 
+  <img src="platforms.png" alt="Platforms: Figma, VSCode, Git, Docker" 
        style="max-width: 450px; width: 100%; border-radius: 10px; padding: 10px; margin: 15px 0;"/>
 </div>
 
