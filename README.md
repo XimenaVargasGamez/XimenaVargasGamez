@@ -24,8 +24,10 @@
 
 <div align="center">
   <img src="Frameworks.png" alt="Frameworks: NodeJs & React" 
-       style="max-width: 10px; width: 20%; border-radius: 10px; padding: 20px; margin: 15px 0;"/>
+       style="max-width: 10px; width: 20%; border-radius: 10px; padding: 20px; margin: 30px 10;"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="platforms.png" alt="Platforms: Figma, VSCode, Git, Docker" 
