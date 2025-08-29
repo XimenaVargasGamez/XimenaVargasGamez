@@ -39,12 +39,9 @@
 ## 🪷 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XimenaVargasGamez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaVargasGamez&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XimenaVargasGamez&show_icons=true&theme=default&title_color=FF78B2&text_color=FC9AC5&icon_color=ffb3d9&bg_color=fef7f7&border_color=f8d7da" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaVargasGamez&layout=compact&theme=default&title_color=FF78B2&text_color=FC9AC5&bg_color=fef7f7&border_color=f8d7da" alt="Top Languages" width="48%"/>
 </div>
-
 ---
 
 ## 🌱 🌾 What I'm Learning:
