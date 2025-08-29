@@ -42,6 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XimenaVargasGamez&show_icons=true&theme=default&title_color=FF789E&text_color=FC9ABB&icon_color=FFB3CB&bg_color=FCF0F4&border_color=f8d7da" alt="GitHub Stats" width="48%" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaVargasGamez&layout=compact&theme=default&title_color=FF789E&text_color=FC9ABB&bg_color=FCF0F4&border_color=f8d7da" alt="Top Languages" width="48%" height="200"/>
 </div>
+
 ---
 
 ## 🌱 🌾 What I'm Learning:
