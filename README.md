@@ -1,6 +1,5 @@
-# Hi there, I'm Ximena Vargas Gamez! 🌟✨
-
 <div align="center">
+  <h1 align="center">Hi there, I'm Ximena Vargas Gamez! 🌟✨</h1>
   <img src="GitHubProfile.gif" alt="Welcome GIF" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
 </div>
 
